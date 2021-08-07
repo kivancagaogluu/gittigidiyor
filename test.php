@@ -25,9 +25,7 @@ $config = [
 $gittigidiyor = new Gittigidiyor($config);
 
 $params = [];
-$params['forceToSpecEntry'] = false;
-$params['nextDateOption'] = null;
-$params['nextDateOption'] = null;
+
 $params['product'] = [
     'categoryCode' => 'e1a',
     'storeCategoryId' => '',
