@@ -3,11 +3,7 @@ Gittigidiyor PHP Api
 
 Install via Composer
 
-```php 
-
-composer require bluntk/gittigidiyor
-
-```
+``composer require bluntk/gittigidiyor``
 
 ## Category Service
 
