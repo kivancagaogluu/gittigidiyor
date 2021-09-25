@@ -1,7 +1,10 @@
 # gittigidiyor
 Gittigidiyor PHP Api
 
-Install via Composer
+# Hakkında
+Bu paket gittigidiyor api servislerinin kullanımı için kişisel ihtiyaçlar doğrultusunda yazılmıştır. Eksik kısımları eklemekten çekinmeyin.
+
+## Install via Composer
 
 ``composer require bluntk/gittigidiyor``
 
