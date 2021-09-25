@@ -32,7 +32,7 @@ $gittigidiyor = new Gittigidiyor($config);
 
 ## Category Service
 
-### Single category with specs
+#### Single category with specs
 
 ```php
 
@@ -50,7 +50,7 @@ $categories = $gittigidiyor->category()->getCategories(['startOffset' => 0, 'row
 
 ## Product Service
 
-### Yeni Ürün Ekleme
+#### Yeni Ürün Ekleme
 
 ```php
 $params = [];
