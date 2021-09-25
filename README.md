@@ -23,6 +23,8 @@ $config = [
     'lang' => 'tr',
 ];
 
+$gittigidiyor = new Gittigidiyor($config);
+
 ```
 
 ## Category Service
