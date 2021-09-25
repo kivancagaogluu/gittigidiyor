@@ -5,6 +5,26 @@ Install via Composer
 
 ``composer require bluntk/gittigidiyor``
 
+## Starting
+
+```php
+
+use bluntk\Gittigidiyor;
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+$config = [
+    'apiKey' => 'xx',
+    'secretKey' => 'xx',
+    'nick' => 'xx',
+    'password' => 'xx',
+    'auth_user' => 'xx',
+    'auth_pass' => 'xx',
+    'lang' => 'tr',
+];
+
+```
+
 ## Category Service
 
 ### Single category with specs
